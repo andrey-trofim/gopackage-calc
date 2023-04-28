@@ -46,3 +46,7 @@ func Second() string {
 func Third() string {
 	return "third"
 }
+
+func Four() string {
+	return "four"
+}
