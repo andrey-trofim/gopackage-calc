@@ -38,3 +38,7 @@ func Check(a, b int) int {
 func First() string {
 	return "first"
 }
+
+func Second() string {
+	return "second"
+}
