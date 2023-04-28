@@ -13,3 +13,8 @@ func Multi(a, b int) int {
 func PrintNumbers(a, b int) {
 	fmt.Println(a,b)
 }
+
+func Reverse(a, b int) []int {
+	r := []int{b, a}
+	return r
+}
