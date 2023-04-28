@@ -34,3 +34,7 @@ func Just(a, b int) string {
 func Check(a, b int) int {
 	return 5
 }
+
+func First() string {
+	return "first"
+}
