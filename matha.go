@@ -30,3 +30,7 @@ func Double(a, b int) []int {
 func Just(a, b int) string {
 	return "text"
 }
+
+func Check(a, b int) int {
+	return 5
+}
