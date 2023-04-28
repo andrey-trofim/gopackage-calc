@@ -42,3 +42,7 @@ func First() string {
 func Second() string {
 	return "second"
 }
+
+func Third() string {
+	return "third"
+}
