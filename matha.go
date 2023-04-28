@@ -26,3 +26,7 @@ func Double(a, b int) []int {
 	}
 	return r
 }
+
+func Just(a, b int) string {
+	return "text"
+}
